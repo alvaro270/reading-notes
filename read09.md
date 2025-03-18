@@ -26,10 +26,10 @@ Su propósito es permitir que el programa siga diferentes caminos de ejecución 
 
 JavaScript tiene varios tipos de operadores:
 
-* **Aritméticos**: Se utilizan para realizar cálculos matemáticos (+, -, *, /, %).
-* **De asignación**: Se utilizan para asignar valores a variables (=, +=, -=, *=, /=).
-* **De comparación**: Se utilizan para comparar valores (==, ===, !=, !==, >, <, >=, <=).
-* **Lógicos**: Se utilizan para combinar condiciones lógicas (&&, ||, !).
+* **Aritméticos**: Se utilizan para realizar cálculos matemáticos `(+, -, *, /, %)`.
+* **De asignación**: Se utilizan para asignar valores a variables `(=, +=, -=, *=, /=)`.
+* **De comparación**: Se utilizan para comparar valores `(==, ===, !=, !==, >, <, >=, <=)`.
+* **Lógicos**: Se utilizan para combinar condiciones lógicas `(&&, ||, !)`.
 * **De cadena**: Se utilizan para concatenar cadenas (+).
 * **Condicional (ternario)**: Es una manera corta de escribir una sentencia if else.
 
