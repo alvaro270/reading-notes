@@ -14,5 +14,5 @@ HTML y CSS trabajan juntos para crear una casa completa y habitable. HTML propor
 
 **Escribe un ejemplo de una regla CSS que daría texto rojo a todos los elementos `<p>`.**
 
-```css
-p { color: red; }
+css
+`p { color: red; }`

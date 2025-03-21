@@ -51,4 +51,3 @@ Git es una herramienta poderosa para el control de versiones. Aquí hay algunos 
 * `git stash`: Guarda temporalmente los cambios no confirmados.
 * `git stash pop`: Aplica los cambios guardados con `git stash`.
 
-Estos comandos te proporcionarán una base sólida para trabajar con Git. ¡Practica y experimenta para dominar el control de versiones!
